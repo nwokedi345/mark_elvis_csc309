@@ -131,7 +131,7 @@ with st.sidebar:
 # --- 4. MAIN DASHBOARD (GRID LAYOUT) ---
 st.markdown("""
 <div class="hero-banner">
-    <h1>🍿 The Cinematic Nexus</h1>
+    <h1>🍿 AI Movie Recommender </h1>
     <p>AI-Powered Content Filtering API Simulation</p>
 </div>
 """, unsafe_allow_html=True)
